@@ -1,0 +1,16 @@
+numpy
+pandas
+TA-Lib
+ccxt
+python-binance
+scikit-learn
+xgboost
+lightgbm
+backtesting
+matplotlib
+plotly
+mplfinance
+python-dotenv
+requests
+tqdm
+joblib
